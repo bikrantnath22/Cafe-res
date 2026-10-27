@@ -1,4 +1,4 @@
-# VALTA Cafe — Online Food Ordering
+# E-Cafe — Online Food Ordering
 
 A full-stack online food ordering site for **VALTA Cafe**, built as a separate
 React frontend and Node.js/Express backend (plain JavaScript).
